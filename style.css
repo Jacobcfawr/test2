@@ -21,7 +21,7 @@ header {
   justify-content: space-between;
   width: 100%;
   padding: 20px;
-  font-size: 8rem;
+  font-size: 6rem;
   
 }
 
@@ -37,7 +37,7 @@ header ul li {
 header ul li a {
   display: block;
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
   padding-left: 20px;
   font-weight: 550;
 
