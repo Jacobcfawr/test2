@@ -9,9 +9,9 @@
 
 body {
   height: 100vh;
-  background-image: url(Best.jpg);
+  background-image: url(cfadr.jpg);
   background-size: cover;
-  color: red;
+  color: white;
   backdrop-filter: blur(11px);  
 }
 
@@ -36,7 +36,7 @@ header ul li {
 
 header ul li a {
   display: block;
-  color: red;
+  color: white;
   text-decoration: none;
   padding-left: 20px;
   font-weight: 550;
